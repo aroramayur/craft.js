@@ -1,4 +1,3 @@
-# Experimental
+# Experimental :warning:
 
-This folder contains experimental packages that may be dropped in the future. Please use at them at your own risk! 
-
+This folder contains experimental packages that uses unstable APIs that may be unsupported in the future. Please use them at your own risk! 
